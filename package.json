@@ -1,0 +1,14 @@
+{
+  "name": "ncrypt",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Ae <hi@angel-estrada.com> (http://www.angel-estrada.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
